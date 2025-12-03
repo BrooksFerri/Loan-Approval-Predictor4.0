@@ -28,7 +28,7 @@ reason = st.selectbox("Reason for Loan", ["DebtConsolidation", "HomeImprovement"
 fico_group = st.selectbox("FICO Score Group", ["Poor", "Fair", "Good", "Very Good", "Exceptional"])
 employment_status = st.selectbox("Employment Status", ["employed", "self-employed", "unemployed"])
 employment_sector = st.selectbox("Employment Sector", ["Healthcare", "Technology", "Finance", "Education", "Retail", "Other"])
-lender = st.selectbox("Lender", ["Lender_A", "Lender_B", "Lender_C", "Lender_D", "Lender_E"])
+lender = st.selectbox("Lender", ["Lender_A", "Lender_B", "Lender_C"])
 
 # Create the input data as a DataFrame
 input_data = pd.DataFrame({
