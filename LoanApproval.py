@@ -23,7 +23,7 @@ st.markdown("""
         text-align: center;
         font-size: 3rem;
         font-weight: 700;
-        color: #0a2463;;
+        color: #000000;;;
         margin-bottom: 0.5rem;
         font-family: 'Helvetica Neue', sans-serif;
     }
