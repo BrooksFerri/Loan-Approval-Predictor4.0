@@ -23,7 +23,7 @@ st.markdown("""
         text-align: center;
         font-size: 3rem;
         font-weight: 700;
-        color: #000000;;;
+        color: #0a2463;
         margin-bottom: 0.5rem;
         font-family: 'Helvetica Neue', sans-serif;
     }
@@ -272,7 +272,7 @@ st.markdown("""
             This should NOT be considered financial advice or used for actual lending decisions.
         </div>
         <div class='footer-section' style='margin-top: 1rem; padding-top: 1rem; border-top: 1px solid #ddd;'>
-            <strong>Created by Brooks Ferri & Nathan Olson</strong> | BUS 458 Final Project | NC State University
+            <strong>Created by Brooks Ferri</strong> | BUS 458 Final Project | NC State University
         </div>
         <div class='footer-section' style='font-size: 0.85rem; color: #999;'>
             Model: Logistic Regression | Last Updated: December 2024
